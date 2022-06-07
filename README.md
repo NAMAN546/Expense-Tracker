@@ -9,9 +9,9 @@ items from DOM and persist it to local storage.
 
 
 
-|  #  |  Demo                                                                                                                    | Project                                                                       |
+| LIVE-DEMO |     PROJECT                                                                                                                |                                                                     |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
- [Demo-Click Here](https://expense-trackerrrr.herokuapp.com/)                                                                  | [Expense-Tracker-Application] |
+ [Click Here](https://expense-trackerrrr.herokuapp.com/)                                                                  | [Expense-Tracker-Application] |
 
  
  
